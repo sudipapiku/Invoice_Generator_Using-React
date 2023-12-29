@@ -1,6 +1,8 @@
 # React Invoice Generator
 
-A web application for producing invoices developed using React provides a quick and easy way for businesses to produce and manage invoices. Users may quickly input client information, add products and services, and calculate totals with automated tax and discount computations using its user-friendly interface. Users may print invoices immediately from the app, which simplifies the invoicing process.
+- Developed a highly efficient web application utilizing React to streamline and enhance the invoicing process for businesses.
+- Implemented a user-friendly interface that allows users to effortlessly enter client information, add products and services, and swiftly calculate totals with automated tax and discount computations.
+- Enabled users to conveniently print invoices directly from the application, significantly simplifying the overall invoicing procedure.
 
 ### Demo Link
 https://sudipapiku.github.io/Invoice_Generator_Using-React/
