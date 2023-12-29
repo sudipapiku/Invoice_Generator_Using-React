@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Container from 'react-bootstrap/Container';
 import InvoiceForm from './components/InvoiceForm';
+import Footer from './components/Footer';
 
 class App extends Component {
   render() {
@@ -10,6 +11,7 @@ class App extends Component {
     <div className="App d-flex flex-column align-items-center justify-content-center w-100">
       <Container>
         <InvoiceForm/>
+        <Footer/>
       </Container>
     </div>
   );

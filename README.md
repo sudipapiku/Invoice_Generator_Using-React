@@ -1,17 +1,17 @@
 # React Invoice Generator
 
-A web application for generating invoices, built using React, provides an efficient and user-friendly solution for businesses to create and manage invoices. With its intuitive interface, users can easily input customer information, add items and services, and calculate totals with automatic tax and discount calculations. The app allows users to print invoices directly from the app, streamlining the invoicing process.
+A web application for producing invoices developed using React provides a quick and easy way for businesses to produce and manage invoices. Users may quickly input client information, add products and services, and calculate totals with automated tax and discount computations using its user-friendly interface. Users may print invoices immediately from the app, which simplifies the invoicing process.
 
-### Live Demo
-https://react-invoice-maker.netlify.app/
+### Demo Link
+
 
 ### Screenshot
-<img src="https://i.ibb.co/3R5JQnv/invoice-generator.png" alt="invoice-generator" border="0">
+
 
 ### Installation
 
 ```
-git clone https://github.com/fasilofficial/react-invoice-generator.git
+git clone https://github.com/sudipapiku/Invoice_Generator_Using-React.git
 
 npm install
 
