@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Invoice_Generator_Using-React/static/css/main.bf50fe30.chunk.css",
+    "main.js": "/Invoice_Generator_Using-React/static/js/main.cc04c7a8.chunk.js",
+    "main.js.map": "/Invoice_Generator_Using-React/static/js/main.cc04c7a8.chunk.js.map",
+    "runtime-main.js": "/Invoice_Generator_Using-React/static/js/runtime-main.2844673a.js",
+    "runtime-main.js.map": "/Invoice_Generator_Using-React/static/js/runtime-main.2844673a.js.map",
+    "static/js/2.92eb8483.chunk.js": "/Invoice_Generator_Using-React/static/js/2.92eb8483.chunk.js",
+    "static/js/2.92eb8483.chunk.js.map": "/Invoice_Generator_Using-React/static/js/2.92eb8483.chunk.js.map",
+    "static/css/3.7ec82a1e.chunk.css": "/Invoice_Generator_Using-React/static/css/3.7ec82a1e.chunk.css",
+    "static/js/3.4287da18.chunk.js": "/Invoice_Generator_Using-React/static/js/3.4287da18.chunk.js",
+    "static/js/3.4287da18.chunk.js.map": "/Invoice_Generator_Using-React/static/js/3.4287da18.chunk.js.map",
+    "static/js/4.08bcf1e7.chunk.js": "/Invoice_Generator_Using-React/static/js/4.08bcf1e7.chunk.js",
+    "static/js/4.08bcf1e7.chunk.js.map": "/Invoice_Generator_Using-React/static/js/4.08bcf1e7.chunk.js.map",
+    "static/js/5.ad1f5051.chunk.js": "/Invoice_Generator_Using-React/static/js/5.ad1f5051.chunk.js",
+    "static/js/5.ad1f5051.chunk.js.map": "/Invoice_Generator_Using-React/static/js/5.ad1f5051.chunk.js.map",
+    "index.html": "/Invoice_Generator_Using-React/index.html",
+    "static/css/3.7ec82a1e.chunk.css.map": "/Invoice_Generator_Using-React/static/css/3.7ec82a1e.chunk.css.map",
+    "static/css/main.bf50fe30.chunk.css.map": "/Invoice_Generator_Using-React/static/css/main.bf50fe30.chunk.css.map",
+    "static/js/2.92eb8483.chunk.js.LICENSE.txt": "/Invoice_Generator_Using-React/static/js/2.92eb8483.chunk.js.LICENSE.txt",
+    "static/js/3.4287da18.chunk.js.LICENSE.txt": "/Invoice_Generator_Using-React/static/js/3.4287da18.chunk.js.LICENSE.txt",
+    "static/js/4.08bcf1e7.chunk.js.LICENSE.txt": "/Invoice_Generator_Using-React/static/js/4.08bcf1e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2844673a.js",
+    "static/css/3.7ec82a1e.chunk.css",
+    "static/js/3.4287da18.chunk.js",
+    "static/css/main.bf50fe30.chunk.css",
+    "static/js/main.cc04c7a8.chunk.js"
+  ]
+}
